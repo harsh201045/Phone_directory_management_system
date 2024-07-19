@@ -1,6 +1,6 @@
 # Phone_directory Management System
 
-The Contact Management System project is a user-friendly and console-based application developed in C++ using various data structures: Linked List, Binary Search Tree (BST), and Trie. This project enables users to efficiently store, retrieve, and manage contact information.
+The Contact Management System project is a user-friendly and console-based application developed in C & C++ using various data structures: Linked List, Binary Search Tree (BST), and Trie. This project enables users to efficiently store, retrieve, and manage contact information.
 
 ## Features
 
